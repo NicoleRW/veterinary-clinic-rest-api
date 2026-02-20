@@ -1,4 +1,4 @@
-package com.nicolerw.veterinary_clinic_rest_api;
+package com.nicolerw.veterinaryclinicrestapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
